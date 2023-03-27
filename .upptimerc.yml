@@ -9,6 +9,8 @@ sites:
     url: http://sg-do4.dukun.org:81
   - name: ID-GC
     url: http://id-tc.dukun.org:89
+  - name: DUBAI-LN
+    url: http://dubai.dukun.org:89
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
