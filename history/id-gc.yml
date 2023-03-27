@@ -1,7 +1,7 @@
-url: http://id-tc.dukun.org
-status: down
-code: 404
-responseTime: 906
-lastUpdated: 2023-03-27T10:09:43.084Z
+url: http://id-tc.dukun.org:89
+status: up
+code: 200
+responseTime: 913
+lastUpdated: 2023-03-27T10:11:27.311Z
 startTime: Mon Mar 27 2023 10:08:47 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
