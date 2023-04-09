@@ -40,7 +40,7 @@
     "url": "http://id-tc.dukun.org:89",
     "icon": "https://icons.duckduckgo.com/ip3/id-tc.dukun.org.ico",
     "slug": "id-gc",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -51,7 +51,9 @@
     "timeWeek": 924,
     "timeMonth": 962,
     "timeYear": 962,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-04-09": 0
+    }
   },
   {
     "name": "DUBAI-LN",
