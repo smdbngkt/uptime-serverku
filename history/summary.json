@@ -5,10 +5,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/sg-do1.dukun.org.ico",
     "slug": "sg-do-1",
     "status": "down",
-    "uptime": "40.98%",
+    "uptime": "40.89%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "29.79%",
     "time": 1105,
     "timeDay": 0,
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 1063,
     "dailyMinutesDown": {
-      "2024-06-30": 98,
+      "2024-07-01": 101,
+      "2024-06-30": 1440,
       "2024-06-29": 1440,
       "2024-06-28": 1440,
       "2024-06-27": 1440,
@@ -270,8 +271,7 @@
       "2023-07-06": 1440,
       "2023-07-05": 1440,
       "2023-07-04": 1440,
-      "2023-07-03": 1440,
-      "2023-07-02": 1440
+      "2023-07-03": 1440
     }
   },
   {
@@ -280,18 +280,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/sg-do4.dukun.org.ico",
     "slug": "sg-do-2",
     "status": "down",
-    "uptime": "38.56%",
+    "uptime": "38.48%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "26.39%",
+    "uptimeMonth": "1.38%",
+    "uptimeYear": "26.12%",
     "time": 976,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 984,
+    "timeYear": 983,
     "dailyMinutesDown": {
-      "2024-06-30": 98,
+      "2024-07-01": 101,
+      "2024-06-30": 1440,
       "2024-06-29": 1440,
       "2024-06-28": 1440,
       "2024-06-27": 1440,
@@ -572,10 +573,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/id-tc.dukun.org.ico",
     "slug": "id-gc",
     "status": "down",
-    "uptime": "2.85%",
+    "uptime": "2.84%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 962,
     "timeDay": 0,
@@ -583,7 +584,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-06-30": 98,
+      "2024-07-01": 101,
+      "2024-06-30": 1440,
       "2024-06-29": 1440,
       "2024-06-28": 1440,
       "2024-06-27": 1440,
@@ -946,8 +948,7 @@
       "2023-07-06": 1440,
       "2023-07-05": 1440,
       "2023-07-04": 1440,
-      "2023-07-03": 1440,
-      "2023-07-02": 1440
+      "2023-07-03": 1440
     }
   },
   {
@@ -956,10 +957,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/dubai.dukun.org.ico",
     "slug": "dubai-ln",
     "status": "down",
-    "uptime": "16.83%",
+    "uptime": "16.79%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 1029,
     "timeDay": 0,
@@ -967,7 +968,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-06-30": 98,
+      "2024-07-01": 101,
+      "2024-06-30": 1440,
       "2024-06-29": 1440,
       "2024-06-28": 1440,
       "2024-06-27": 1440,
@@ -1330,8 +1332,7 @@
       "2023-07-06": 1440,
       "2023-07-05": 1440,
       "2023-07-04": 1440,
-      "2023-07-03": 1440,
-      "2023-07-02": 1440
+      "2023-07-03": 1440
     }
   }
 ]
